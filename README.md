@@ -1,5 +1,5 @@
 ---
-title:
+title: AI Safety London
 ---
 # Welcome to the group!
 
