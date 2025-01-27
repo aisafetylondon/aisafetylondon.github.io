@@ -1,3 +1,6 @@
+---
+title:
+---
 # Welcome to the group!
 
 This is the website for the **AI Safety London** group.
