@@ -4,7 +4,7 @@ This is the website for the **AI Safety London** group.
 
 Visit the meetup group web for updates on events:
 
-<ul><li class="fork">[meetup.com/ai-safety-london](https://www.meetup.com/ai-safety-london/)</li></ul>
+<ul><li class="fork"><a href="https://www.meetup.com/ai-safety-london/">meetup.com/ai-safety-london</a></li></ul>
 
 Talk topics will cover AI safety, AI aligment, AI cybersecurity, policy making, and how AI is being used at scale, in ways that is important for the knowledge of practitioners of all the previous disciplines.
 
