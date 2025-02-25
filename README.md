@@ -5,7 +5,7 @@ This is the website for the **AI Safety London** group.
 Visit the meetup group web for updates on events:
 <ul><li class="fork"><a href="https://www.meetup.com/ai-safety-london/">meetup.com/ai-safety-london</a></li></ul>
 
-Join our Telegram channel to be part of the conversation, contribute ideas, and share your voice:
+Join our Telegram group to be part of the conversation, contribute ideas, and share your voice:
 <ul><li class="fork"><a href="https://t.me/+pRw8v22TNAc0MGY0">AI Safety London Telegram channel</a></li></ul>
 
 You are welcome to join even if you are not close by London, as we plan to do several activities and talks remotely.
@@ -47,18 +47,15 @@ In order of importance, things we need:
 ## Related resources
 
 Some groups related to our planned activities:
-
-* Related groups / events
-  * [AI Safety Community Events](https://lu.ma/aisafetycommunityevents) by BlueDot Impact
-  * [BD AGI Social Impacts](https://lu.ma/calendar/cal-JmkJ1MkglgB1sHU)
-  * [AI Security Collective](https://lu.ma/AISecurityCollective)
-  * [AI-Plans](https://lu.ma/ai-plans)
+* [AI Safety Community Events](https://lu.ma/aisafetycommunityevents) by BlueDot Impact
+* [BD AGI Social Impacts](https://lu.ma/calendar/cal-JmkJ1MkglgB1sHU)
+* [AI Security Collective](https://lu.ma/AISecurityCollective)
+* [AI-Plans](https://lu.ma/ai-plans)
 
 Do you know any other relevant group? Do you belong to a group and you think we can join forces? [Let us know!](https://t.me/+pRw8v22TNAc0MGY0)  
 
-We recommend any of the BlueDot impact courses if you want to upskill on these topics:
-* [BlueDot Impact](https://bluedot.org/) courses:
-  * [AI Safety course](https://aisafetyfundamentals.com/)
-  * [AI Governance course](https://aisafetyfundamentals.com/governance/)
-  * [AI Alignment course](https://aisafetyfundamentals.com/alignment/)
+We recommend any of the excellent [BlueDot Impact](https://bluedot.org/) courses if you want to upskill on these topics:
+* [AI Safety course](https://aisafetyfundamentals.com/)
+* [AI Governance course](https://aisafetyfundamentals.com/governance/)
+* [AI Alignment course](https://aisafetyfundamentals.com/alignment/)
 
