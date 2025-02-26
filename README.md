@@ -12,7 +12,7 @@ You are welcome to join even if you are not close by London, as we plan to do se
 
 ## Goals
 
-The goal of this group is to bring together AI safety researchers, cybersecurity specialists, engineers deploying AI at scale, and policy makers, so we can exchange information and tap into each other area of expertise to guarantee a future where, when AI is used, it is in a safe, fair and ethical way.
+The goal of this group is to bring together AI safety researchers, cybersecurity specialists, engineers deploying AI at scale, and policy makers, so we can exchange information and tap into each other area of expertise to guarantee that in the future, when AI is used, it is in a secure, safe, fair and ethical way.
 
 ## Activities
 
