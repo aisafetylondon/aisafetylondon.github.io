@@ -8,6 +8,9 @@ Visit the meetup group web for updates on events:
 Join our Telegram group to be part of the conversation, contribute ideas, and share your voice:
 <ul><li class="fork"><a href="https://t.me/+pRw8v22TNAc0MGY0">AI Safety London Telegram channel</a></li></ul>
 
+We will try to live stream and record on video our activities:
+* [youtube.com/@aisafetylondon](https://www.youtube.com/@aisafetylondon)
+
 You are welcome to join even if you are not close by London, as we plan to do several activities and talks remotely.
 
 ## Goals
