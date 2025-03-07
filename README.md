@@ -54,6 +54,7 @@ Some groups related to our planned activities:
 * [BD AGI Social Impacts](https://lu.ma/calendar/cal-JmkJ1MkglgB1sHU)
 * [AI Security Collective](https://lu.ma/AISecurityCollective)
 * [AI-Plans](https://lu.ma/ai-plans)
+* [Effective Altruism Tech London](https://lu.ma/EATechLondon)
 
 Do you know any other relevant group? Do you belong to a group and you think we can join forces? [Let us know!](https://t.me/+pRw8v22TNAc0MGY0)  
 
