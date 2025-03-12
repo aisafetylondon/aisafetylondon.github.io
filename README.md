@@ -56,6 +56,8 @@ Some groups related to our planned activities:
 * [AI-Plans](https://lu.ma/ai-plans)
 * [Effective Altruism Tech London](https://lu.ma/EATechLondon)
 * [The Political Technologist](https://lu.ma/calendar/cal-3YXZTF2qtmU3MQT)
+* [London Initiative for Safe AI (LISA)](https://www.safeai.org.uk/)
+* [AI Security Institute (AISI)](https://www.aisi.gov.uk/)
 
 Do you know any other relevant group? Do you belong to a group and you think we can join forces? [Let us know!](https://t.me/+pRw8v22TNAc0MGY0)  
 
