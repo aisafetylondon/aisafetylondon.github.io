@@ -11,6 +11,8 @@ More information here:
 * [summit333.com](https://summit333.com/)
 * [civilizationsignal.org](https://civilizationsignal.org/)
 
+<hr />
+
 # Welcome to AI Safety London
 
 This is the website for the **AI Safety London** group.
