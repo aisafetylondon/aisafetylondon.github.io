@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 116" width="512" height="594">
+  <title>AI Safety London</title>
+  <path d="M50 5 L91 18 V55 C91 83 73 100 50 111 C27 100 9 83 9 55 V18 Z" fill="none" stroke="#0F2A44" stroke-width="6" stroke-linejoin="round"/>
+  <!-- The Shard -->
+  <path d="M25 84 L34.5 40 L35.5 44 L37 39 L43 84 Z" fill="#14A3A8"/>
+  <!-- Elizabeth Tower (Big Ben) -->
+  <path fill-rule="evenodd" fill="#14A3A8" d="M46.5 84 V52 H53.5 V84 Z M44.5 52 V39 H55.5 V52 Z M50 42 a3.4 3.4 0 1 0 0.01 0 Z M45.5 39 L50 26 L54.5 39 Z"/>
+  <path d="M50 26 V20" stroke="#14A3A8" stroke-width="1.6"/>
+  <circle cx="50" cy="18.5" r="2.2" fill="#14A3A8"/>
+  <!-- London Eye -->
+  <g stroke="#14A3A8" stroke-linecap="round" fill="none">
+    <circle cx="68" cy="60" r="10.5" stroke-width="1.4"/>
+    <path d="M68 60 L61.5 84 M68 60 L74.5 84" stroke-width="2.4"/>
+    <path d="M68 49.5 V70.5 M57.5 60 H78.5 M60.6 52.6 L75.4 67.4 M75.4 52.6 L60.6 67.4" stroke-width="1.1"/>
+  </g>
+  <circle cx="78.50" cy="60.00" r="2.3" fill="#14A3A8"/><circle cx="75.42" cy="67.42" r="2.3" fill="#14A3A8"/><circle cx="68.00" cy="70.50" r="2.3" fill="#14A3A8"/><circle cx="60.58" cy="67.42" r="2.3" fill="#14A3A8"/><circle cx="57.50" cy="60.00" r="2.3" fill="#14A3A8"/><circle cx="60.58" cy="52.58" r="2.3" fill="#14A3A8"/><circle cx="68.00" cy="49.50" r="2.3" fill="#14A3A8"/><circle cx="75.42" cy="52.58" r="2.3" fill="#14A3A8"/>
+  <circle cx="68" cy="60" r="2.6" fill="#14A3A8"/>
+  <!-- ground + Thames -->
+  <g stroke="#14A3A8" stroke-linecap="round" fill="none">
+    <path d="M22 84 H78" stroke-width="3"/>
+    <path d="M34 91 H41 L44 94.5 H56 L59 91 H66" stroke-width="2.4" stroke-linejoin="round"/>
+    <circle cx="31.5" cy="91" r="2.3" stroke-width="1.8"/>
+    <circle cx="68.5" cy="91" r="2.3" stroke-width="1.8"/>
+  </g>
+</svg>

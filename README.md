@@ -1,3 +1,16 @@
+# Upcoming event: Summit 333
+
+On November 26th Thursday, at 5pm BST we will conduct a roundtable online meeting to discuss current AI Safety trends, what atendees are currently involved, what are things they can be supported with, and how they can contribute to help others.
+
+Please sign up and join with this link:
+* [luma.com/join/eh-k7rr8HP7HxHWUlC](https://luma.com/join/eh-k7rr8HP7HxHWUlC)
+
+This event is part of [summit333.com](https://summit333.com/), a virtual conference organized around the world to help advance AI safety, coordinated by non-profit [Civilization Signal](https://civilizationsignal.org/).
+
+More information here:
+* [summit333.com](https://summit333.com/)
+* [civilizationsignal.org](https://civilizationsignal.org/)
+
 # Welcome to AI Safety London
 
 This is the website for the **AI Safety London** group.
@@ -66,3 +79,4 @@ We recommend any of the excellent [BlueDot Impact](https://bluedot.org/) courses
 * [AI Governance course](https://aisafetyfundamentals.com/governance/)
 * [AI Alignment course](https://aisafetyfundamentals.com/alignment/)
 
+<img src="/ai_safety_london.jpg" alt="AI Safety London" />
